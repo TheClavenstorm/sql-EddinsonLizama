@@ -58,3 +58,7 @@ SELECT
 FROM MovimientosInventario
 WHERE Observaciones IS NOT NULL;
 GO
+
+select* from MovimientosInventario
+select* from Productos
+select* from Categorias
